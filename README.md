@@ -1,2 +1,2 @@
 # PoGeOn
-Portal generico de opiniones
+Portal generico de opiniones (NodeJS/Express)
