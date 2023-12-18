@@ -18,6 +18,9 @@ const {
 
 const app = express()
 
+app.use.express.json();
+app.use.(morgan('dev'));
+
 app.use(morgan('dev'))
 
 //Rutas de usuarios 
